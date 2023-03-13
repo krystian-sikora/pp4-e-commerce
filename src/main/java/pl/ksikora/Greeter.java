@@ -1,4 +1,4 @@
-package ksikora;
+package pl.ksikora;
 
 public class Greeter {
     public void greet(String name) {
